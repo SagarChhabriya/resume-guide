@@ -1,2 +1,2 @@
-# resume-guide
-A step-by-step guide to creating effective, professional resumes. Offers tips, templates, and examples for job seekers to make successful resumes targeted towards various industries and positions.
+
+![image](https://github.com/user-attachments/assets/34def754-b8ac-4147-b99c-130921bbf37e)
